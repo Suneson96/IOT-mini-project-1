@@ -2,7 +2,6 @@ import time
 import board
 import adafruit_dht
 import json
-import atexit
 
 
 class DHTSensor:

@@ -1,7 +1,6 @@
 import time
 from azure.iot.device import IoTHubDeviceClient, Message
 import board
-import adafruit_dht
 import json
 from dht import DHTSensor
 import os
